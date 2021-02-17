@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "shootymap.h": "c",
+        "backgroundtilemap.h": "c",
+        "gb.h": "c",
+        "font.h": "c"
+    }
+}
